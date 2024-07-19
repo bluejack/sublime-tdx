@@ -1,0 +1,67 @@
+
+
+
+
+[ ] Hello
+[x] Hello [Hello]
+[.] Hello
+
+( ) Hello
+(x) Hello (Hello)
+(.) Hello
+
+< > Hello
+<x> Hello (Hello)
+<.> Hello
+
+{ } Hello
+{x} Hello {Hello}
+{.} Hello
+
+* List Star
+- List Dash
+> List Prompt
+. List Dot
+
+1. What now
+2. Why not
+3. Oh for god's sake
+44. How about?
+
+=>  A thing 
+==> A longer thing
+
+:: Ok this is something, right?
+
+# How about this?
+## Or this
+### or this
+
+
+// One line comment
+
+
+<-- 
+
+Block Type 1
+
+-->
+
++- 
+
+Block Type 2
+
+-+
+
+
+/* 
+
+Block Type 3
+
+*/ 
+
+And done. 
+
+
+
+
